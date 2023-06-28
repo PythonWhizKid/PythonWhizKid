@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a computer science student currently pursuing 
 
 ## Get in Touch
 
-I'm always excited to connect with fellow developers and collaborate on interesting projects. Feel free to reach out to me via email at nishchyapsingh@gmail.com or connect with me on [LinkedIn](link-to-your-linkedin-profile).
+I'm always excited to connect with fellow developers and collaborate on interesting projects. Feel free to reach out to me via email at nishchyapsingh@gmail.com.
 
 Let's learn, build, and create amazing things together!
 
