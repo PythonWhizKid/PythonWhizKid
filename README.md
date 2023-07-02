@@ -14,6 +14,10 @@ Welcome to my GitHub profile! I'm a computer science student currently pursuing 
 - Programming Languages: Python, Java, C++
 - Web Development: HTML, CSS
 
+## Favourite Projects
+
+-https://github.com/PythonWhizKid/python/blob/main/GuessTheWord3.0.py
+
 ## Get in Touch
 
 I'm always excited to connect with fellow developers and collaborate on interesting projects. Feel free to reach out to me via email at nishchyapsingh@gmail.com.
